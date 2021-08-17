@@ -16,6 +16,9 @@ export default function Navbar({ currentPage, handlePageChange }) {
 <nav class="navbar navbar-light bg-light">
   <div class="row">
   <div class="col-md container-fluid">
+    <a class="navbar-brand" href="#Home" onClick={()=> handlePageChange('Home')}>Home</a>
+  </div>
+  <div class="col-md container-fluid">
     <a class="navbar-brand" href="#About" onClick={()=> handlePageChange('About')}>About Me</a>
   </div>
   <div class="col-md container-fluid">
