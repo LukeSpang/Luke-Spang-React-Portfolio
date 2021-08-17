@@ -10,9 +10,8 @@ MDBNavbarToggler,
 MDBNavbarLink,
 MDBContainer,
 MDBIcon } from 'mdb-react-ui-kit';
-import '../style/Navbar.css'
 
-export default function Navbar() {
+export default function Navbar({ currentPage, handlePageChange }) {
   return (
 <nav class="navbar navbar-light bg-light">
   <div class="row">
