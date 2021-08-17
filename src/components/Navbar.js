@@ -17,13 +17,13 @@ export default function Navbar() {
 <nav class="navbar navbar-light bg-light">
   <div class="row">
   <div class="col-md container-fluid">
-    <a class="navbar-brand" href="#">Navbar</a>
+    <a class="navbar-brand" href="#">About Me</a>
   </div>
   <div class="col-md container-fluid">
-    <a class="navbar-brand" href="#">Navbar</a>
+    <a class="navbar-brand" href="#">Projects</a>
   </div>
   <div class="col-md container-fluid">
-    <a class="navbar-brand" href="#">Navbar</a>
+    <a class="navbar-brand" href="#">Contact Me</a>
   </div>
   </div>
 </nav>
