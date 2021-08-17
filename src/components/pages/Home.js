@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <MDBContainer fluid>
     <div>
-    <Navbar />
+
     <Header />
     </div>
     </MDBContainer>
