@@ -7,6 +7,7 @@ MDBNavbarToggler,
 MDBNavbarLink,
 MDBContainer,
 MDBIcon } from 'mdb-react-ui-kit';
+import '../style/Header.css'
 
 export default function App() {
   return (
@@ -42,9 +43,9 @@ export default function App() {
       </MDBNavbar>
 
       <div
-        id='intro-example'
+        id="header"
         className='p-5 text-center bg-image'
-        style={{ backgroundImage: "url('https://mdbcdn.b-cdn.net/img/new/slides/041.jpg')" }}
+      
       >
         <div className='mask' style={{ backgroundColor: 'rgba(0, 0, 0, 0.7)' }}>
           <div className='d-flex justify-content-center align-items-center h-100'>
