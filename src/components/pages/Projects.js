@@ -1,4 +1,5 @@
 import React from 'react';
+import { MDBBtn, MDBCard, MDBCardBody, MDBCardImage, MDBCardTitle, MDBCardText, MDBCol } from 'mdbreact';
 
 
 export default function Projects(){
@@ -36,7 +37,7 @@ export default function Projects(){
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img
-        src="../../../public/MapGamePage2"
+        src='https://images.freeimages.com/images/large-previews/962/treasure-map-1190518.jpg'
         class="d-block w-100"
         alt="..."
       />
@@ -48,7 +49,7 @@ export default function Projects(){
 
     <div class="carousel-item">
       <img
-        src="https://mdbootstrap.com/img/Photos/Slides/img%20(22).jpg"
+        src="https://images.freeimages.com/images/large-previews/79b/music-to-the-people-1494335.jpg"
         class="d-block w-100"
         alt="..."
       />
@@ -60,7 +61,7 @@ export default function Projects(){
 
     <div class="carousel-item">
       <img
-        src="https://mdbootstrap.com/img/Photos/Slides/img%20(23).jpg"
+        src="https://images.freeimages.com/images/large-previews/53d/diary-page-1240501.jpg"
         class="d-block w-100"
         alt="..."
       />
