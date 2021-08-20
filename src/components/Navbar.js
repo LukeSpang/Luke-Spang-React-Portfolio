@@ -1,5 +1,6 @@
 import React from 'react';
 import 'mdb-react-ui-kit/dist/css/mdb.min.css';
+import '../style/Navbar.css'
 
 
 import {
@@ -13,7 +14,8 @@ MDBIcon } from 'mdb-react-ui-kit';
 
 export default function Navbar({ currentPage, handlePageChange }) {
   return (
-<nav class="navbar navbar-light bg-light">
+   
+<nav  class="navbar navbar-light bg-light">
   <div class="row">
   <div class="col-md container-fluid">
     <a class="navbar-brand" href="#Home" onClick={()=> handlePageChange('Home')}>Home</a>
@@ -29,6 +31,7 @@ export default function Navbar({ currentPage, handlePageChange }) {
   </div>
   </div>
 </nav>
+
 
 
     

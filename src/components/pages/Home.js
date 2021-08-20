@@ -1,13 +1,14 @@
 import React from 'react';
 import { MDBBtn, MDBContainer } from 'mdb-react-ui-kit';
 import Header from "../Header.js";
-//import Navbar from "../Navbar.js";
+import Footer from "../Footer.js";
 
 
 export default function Home() {
   return (
     <MDBContainer fluid>
     <div>
+      <Footer />
 
     </div>
     </MDBContainer>
