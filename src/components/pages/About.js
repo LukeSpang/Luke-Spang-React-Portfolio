@@ -12,7 +12,7 @@ const JumbotronPage = () => {
             </MDBCardTitle>
 
             <MDBCardImage
-              src="https://mdbootstrap.com/img/Photos/Slides/img%20(70).jpg"
+              src="./Hero.JPG"
               className="img-fluid"
             />
             <MDBCardBody>
@@ -26,21 +26,14 @@ const JumbotronPage = () => {
 
               <MDBCol className="d-flex justify-content-center mt-4" md="12">
                 <MDBCol md="3" className="d-flex justify-content-around">
-                  <a href="#"><MDBIcon
+                  <a target="_blank" href="https://www.linkedin.com/in/luke-spang-a6a960207/"><MDBIcon
                     fab
                     icon="linkedin-in"
                     className="grey-text"
                     size="lg"
                   /></a>
-                  <a href="#"><MDBIcon
-                    fab
-                    icon="twitter"
-                    className="grey-text"
-                    size="lg"
-                  /></a>
-                  <a href="#"><MDBIcon
-                    fab
-                    icon="facebook-f"
+                  
+                  <a target="_blank" href="https://github.com/LukeSpang"><MDBIcon fab icon="github"
                     className="grey-text"
                     size="lg"
                   /></a>
