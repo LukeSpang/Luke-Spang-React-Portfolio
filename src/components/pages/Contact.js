@@ -5,9 +5,9 @@ const Contact = () => {
 return (
 <MDBContainer>
   <MDBRow>
-    <MDBCol md="6">
-      <form>
-        <p className="h5 text-center mb-4">Write to us</p>
+    <MDBCol  md="12">
+      <form >
+        <p className="h5 text-center mb-4">Reach Out To Me!</p>
         <div className="grey-text">
           <MDBInput label="Your name" icon="user" group type="text" validate error="wrong"
             success="right" />
