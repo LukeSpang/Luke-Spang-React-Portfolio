@@ -16,9 +16,10 @@ export default function Header() {
       <div
         id="header"
         className='p-5 text-center bg-image'
+        
       
       >
-        <div className='mask' style={{ backgroundColor: 'rgba(0, 0, 0, 0.7)' }}>
+        <div  className='mask' style={{ backgroundColor: 'rgba(0, 0, 0, 0.7)' }}>
           <div className='d-flex justify-content-center align-items-center h-100'>
             <div className='text-white'>
               <h1 className='mb-3'>Spang Programming</h1>
