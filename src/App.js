@@ -3,6 +3,7 @@ import { MDBBtn, MDBContainer } from 'mdb-react-ui-kit';
 import Header from "./components/Header.js";
 //import Navbar from "./components/Navbar.js";
 import PortfolioContainer from './components/PortfolioContainer.js';
+import Footer from './components/Footer.js'
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
     <div>
     <Header />  
     <PortfolioContainer />
+    <Footer />
     </div>
    
     

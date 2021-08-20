@@ -6,12 +6,12 @@ import Footer from "../Footer.js";
 
 export default function Home() {
   return (
-    <MDBContainer fluid>
+    
     <div>
       <Footer />
 
     </div>
-    </MDBContainer>
+   
     
   );
 }
