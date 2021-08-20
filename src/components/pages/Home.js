@@ -9,24 +9,21 @@ const Home = () => {
           className='card-image'
           style={{
             backgroundImage:
-              "url('https://mdbcdn.b-cdn.net/img/Photos/Horizontal/Work/4-col/img%20%2814%29.jpg')"
+              "url('https://images.freeimages.com/images/large-previews/62f/computer-keyboard-1188763.jpg')"
           }}
         >
           <div className='text-white text-center d-flex align-items-center rgba-black-strong py-5 px-4'>
             <div>
-              <h5 className='pink-text'>
-                <MDBIcon icon='desktop' /> Front End
+              <h5 className='green-text'>
+                <MDBIcon icon='desktop' /> Web Development
               </h5>
               <MDBCardTitle tag='h3' className='pt-2'>
-                <strong>This is card title</strong>
+                <strong>Hard Skills</strong>
               </MDBCardTitle>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Repellat fugiat, laboriosam, voluptatem, optio vero odio nam sit
-                officia accusamus minus error nisi architecto nulla ipsum
-                dignissimos. Odit sed qui, dolorum!
+              My strengths and skills include: JavaScript, React, Databases (MySQL, MongoDB), Server Side Development (MERN Stack, Progressive Web Applications), Browser Based Technologies (HTML5, CSS, jQuery, Bootstrap, Handlebars), Deployment/Command-Line Fundamentals (Heroku, Git), API Interaction (API, JSON, AJAX), Quality Assurance (Unit Testing, Linting, Continuous Integration), as well as Python, Java, C#, and Amazon Web Services.
               </p>
-              <MDBBtn  color='pink'>
+              <MDBBtn  color='green'>
                 <MDBIcon icon='clone left' /> See More
                 
               </MDBBtn>
@@ -40,24 +37,21 @@ const Home = () => {
           className='card-image'
           style={{
             backgroundImage:
-              "url('https://mdbootstrap.com/img/Photos/Horizontal/City/6-col/img%20(47).jpg')"
+              "url('https://images.freeimages.com/images/large-previews/4f6/team-meeting-1458975.jpg')"
           }}
         >
           <div className='text-white text-center d-flex align-items-center rgba-indigo-strong py-5 px-4'>
             <div>
-              <h5 className='orange-text'>
-                <MDBIcon icon='desktop' /> Back End
+              <h5 className='green-text'>
+                <MDBIcon icon='desktop' /> Work Place
               </h5>
               <MDBCardTitle tag='h3' className='pt-2'>
-                <strong>This is card title</strong>
+                <strong>Soft Skills</strong>
               </MDBCardTitle>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Repellat fugiat, laboriosam, voluptatem, optio vero odio nam sit
-                officia accusamus minus error nisi architecto nulla ipsum
-                dignissimos. Odit sed qui, dolorum!
+                From working in the health care world as a registered nurse for four year I have developed a unique set of soft skills that can make me incredibly valuable to any company. Some of these skills include teamwork, creativity, empathy, a willingness to learn, critical thinking, effective/deliberate communication, flexibility, training, leadership, training, and conflict resolution. I believe I would make a fantastic addition to any team.
               </p>
-              <MDBBtn  color='deep-orange'>
+              <MDBBtn  color='green'>
                 <MDBIcon icon='clone left' /> See More
               </MDBBtn>
             </div>
