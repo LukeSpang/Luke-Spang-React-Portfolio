@@ -22,7 +22,7 @@ export default function Header() {
         <div  className='mask' style={{ backgroundColor: 'rgba(0, 0, 0, 0.7)' }}>
           <div className='d-flex justify-content-center align-items-center h-100'>
             <div className='text-white'>
-              <h1 className='mb-3'>Spang Programming</h1>
+              <h1 className='mb-3'>Luke Spang</h1>
               <h5 className='mb-4'>Full Stack Web Developer</h5>
               <a
                 target = "_blank"

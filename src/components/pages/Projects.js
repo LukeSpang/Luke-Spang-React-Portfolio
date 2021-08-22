@@ -61,7 +61,7 @@ export default function Projects(){
       />
       <div class="carousel-caption d-none d-md-block card mdb-color">
         <h5 class="text-light">Map Marauders</h5>
-        <p class="text-light">Map Marauders is a multiplayer geo guessing game! Create your own personal account and play with your friends. Guess the right city in the live chat and you will get a point. Using the google maps API, destinations are limitless! Other technologies used are HTML, CSS, Bootstrap, Handlebars, JavaScript, jQuery, RestAPI, Socket.io, Express, Node, MySQL, Passport, Sequelize, and Bcrypt. The Live Deployment can be found at <a target="_blank" href="https://map-marauders.herokuapp.com/">https://map-marauders.herokuapp.com/</a></p>
+        <p class="text-light">Map Marauders is a multiplayer geo guessing game! Create your own personal account and play with your friends. Guess the right city in the live chat and you will get a point. Using the google maps API, destinations are limitless! Other technologies used are HTML, CSS, Bootstrap, Handlebars, JavaScript, jQuery, RestAPI, Socket.io, Express, Node, MySQL, Passport, Sequelize, and Bcrypt. The Live Deployment can be found at <a target="_blank" href="https://map-marauders.herokuapp.com/">https://map-marauders.herokuapp.com/</a><a target="_blank" href="https://github.com/AnthonyPlanisek/Project-2">Repository</a></p>
       </div>
     </div>
 
@@ -73,7 +73,7 @@ export default function Projects(){
       />
       <div class="carousel-caption d-none d-md-block card mdb-color">
         <h5 class="text-light">Music Search</h5>
-        <p class="text-light">The Music Search web application uses three powerful API's (genius, lyric, and deezer) to present the user with song lyrics and a sample clip of the same song! Technologies also used in this project are HTML, CSS, JavaScript, and Zurb Foundation. The Live Deployment can be found at <a target="_blank" href="https://slown137.github.io/Music-Search-Project/#">https://slown137.github.io/Music-Search-Project/#</a></p>
+        <p class="text-light">The Music Search web application uses three powerful API's (genius, lyric, and deezer) to present the user with song lyrics and a sample clip of the same song! Technologies also used in this project are HTML, CSS, JavaScript, and Zurb Foundation. The Live Deployment can be found at <a target="_blank" href="https://slown137.github.io/Music-Search-Project/#">https://slown137.github.io/Music-Search-Project/#</a><a target="_blank" href="https://github.com/slown137/Music-Search-Project">Repository</a></p>
       </div>
     </div>
 
@@ -85,7 +85,7 @@ export default function Projects(){
       />
       <div class="carousel-caption d-none d-md-block card mdb-color">
         <h5 class="text-light">Personal Day Planner</h5>
-        <p class="text-light">The Personal Day Planner will help you stay organized during these crazy times we are living through. Using JavaScript and local storage, see what you have added to your to do list, even when you leave the page! Other technologies used were HTML, CSS, and JS Moment. The Live Deployment can be found at <a target="_blank" href="https://lukespang.github.io/Personal-Day-Planner/">https://lukespang.github.io/Personal-Day-Planner/</a></p>
+        <p class="text-light">The Personal Day Planner will help you stay organized during these crazy times we are living through. Using JavaScript and local storage, see what you have added to your to do list, even when you leave the page! Other technologies used were HTML, CSS, and JS Moment. The Live Deployment can be found at <a target="_blank" href="https://lukespang.github.io/Personal-Day-Planner/">https://lukespang.github.io/Personal-Day-Planner/</a><a target="_blank" href="https://github.com/LukeSpang/Personal-Day-Planner">Repository</a></p>
       </div>
     </div>
 
@@ -109,7 +109,7 @@ export default function Projects(){
       />
       <div class="carousel-caption d-none d-md-block card mdb-color">
         <h5 class="text-light">Password Generator</h5>
-        <p class="text-light">Are you tired of coming up with creative passwords on your own? Do you want to add more security to your accounts. Then look no further than this password generator application. In a matter of seconds you will be able to create a unique password containing number, letters, and/or symbols. This application uses HTML, CSS, and JavaScript and can be seen live at: <a target="_blank" href="https://lukespang.github.io/Random-Password-Generator/">https://lukespang.github.io/Random-Password-Generator/</a></p>
+        <p class="text-light">Are you tired of coming up with creative passwords on your own? Do you want to add more security to your accounts. Then look no further than this password generator application. In a matter of seconds you will be able to create a unique password containing number, letters, and/or symbols. This application uses HTML, CSS, and JavaScript and can be seen live at: <a target="_blank" href="https://lukespang.github.io/Random-Password-Generator/">https://lukespang.github.io/Random-Password-Generator/</a><a target="_blank" href="https://github.com/LukeSpang/Random-Password-Generator">Repository</a></p>
       </div>
     </div>
 
@@ -121,7 +121,7 @@ export default function Projects(){
       />
       <div class="carousel-caption d-none d-md-block card mdb-color">
         <h5 class="text-light">National Weather Forecaster</h5>
-        <p class="text-light">The weather can change your day in a matter of minutes. Never be caught off gaurd again! This application will show you the most up to date weather information, as well as a five day forecast. Using the Open Weather API, this application can show the user all the weather information they need to know about their location, or any location they want to search. This application uses HTML, CSS, JavaScript, and the Open Weather API. It can be seen at: <a target="_blank" href="https://lukespang.github.io/National-Weather-Forecaster/">https://lukespang.github.io/National-Weather-Forecaster/</a></p>
+        <p class="text-light">The weather can change your day in a matter of minutes. Never be caught off gaurd again! This application will show you the most up to date weather information, as well as a five day forecast. Using the Open Weather API, this application can show the user all the weather information they need to know about their location, or any location they want to search. This application uses HTML, CSS, JavaScript, and the Open Weather API. It can be seen at: <a target="_blank" href="https://lukespang.github.io/National-Weather-Forecaster/">https://lukespang.github.io/National-Weather-Forecaster/</a> <a target="_blank" href="https://github.com/LukeSpang/National-Weather-Forecaster">Repository</a></p>
       </div>
     </div>
   </div>
