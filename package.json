@@ -4,6 +4,7 @@
   "description": "template for mdb-react-ui-kit",
   "private": true,
   "dependencies": {
+    "bootstrap": "^5.1.0",
     "gh-pages": "^3.2.3",
     "mdb-react-ui-kit": "^1.3.0",
     "mdbreact": "^5.1.0",
