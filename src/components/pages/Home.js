@@ -23,10 +23,7 @@ const Home = () => {
               <p>
               My strengths and skills include: JavaScript, React, Databases (MySQL, MongoDB), Server Side Development (MERN Stack, Progressive Web Applications), Browser Based Technologies (HTML5, CSS, jQuery, Bootstrap, Handlebars), Deployment/Command-Line Fundamentals (Heroku, Git), API Interaction (API, JSON, AJAX), Quality Assurance (Unit Testing, Linting, Continuous Integration), as well as Python, Java, C#, and Amazon Web Services.
               </p>
-              <MDBBtn  color='green'>
-                <MDBIcon icon='clone left' /> See More
-                
-              </MDBBtn>
+              
             </div>
           </div>
         </MDBCard>
@@ -51,9 +48,7 @@ const Home = () => {
               <p>
                 From working in the health care world as a registered nurse for four year I have developed a unique set of soft skills that can make me incredibly valuable to any company. Some of these skills include teamwork, creativity, empathy, a willingness to learn, critical thinking, effective/deliberate communication, flexibility, training, leadership, training, and conflict resolution. I believe I would make a fantastic addition to any team.
               </p>
-              <MDBBtn  color='green'>
-                <MDBIcon icon='clone left' /> See More
-              </MDBBtn>
+              
             </div>
           </div>
         </MDBCard>
