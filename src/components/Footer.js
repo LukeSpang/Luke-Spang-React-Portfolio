@@ -1,22 +1,33 @@
 import React from "react";
-import { MDBCol, MDBContainer, MDBRow, MDBFooter } from "mdbreact";
+import { MDBCol, MDBContainer, MDBRow, MDBFooter, MDBIcon } from "mdbreact";
 import '../style/Footer.css'
 
 const Footer = () => {
   return (
     <MDBFooter class = "fixed-bottom"  color="default-color-dark" className="font-small pt-4 mt-4" >
-      <MDBContainer fluid className="text-center text-md-left">
+      <MDBContainer fluid className="text-center ">
         <MDBRow>
          
-            <h5 className="title">Links</h5>
-            <ul>
-              <li class="d-flex justify-content-evenly" className="list-unstyled">
-                <a href="#!">Link 1</a>
-              </li>
-              <li class="d-flex justify-content-evenly" className="list-unstyled">
-                <a href="#!">Link 2</a>
-              </li>
-            </ul>
+            
+        <MDBCol className="d-flex justify-content-center mt-4" md="12">
+                <MDBCol md="3" className="d-flex justify-content-around">
+                  <a target="_blank" href="https://www.linkedin.com/in/luke-spang-a6a960207/"><MDBIcon
+                    fab
+                    icon="linkedin-in"
+                    className="white-text"
+                    size="lg"
+                  /></a>
+                  
+                  <a target="_blank" href="https://github.com/LukeSpang"><MDBIcon fab icon="github"
+                    className="white-text"
+                    size="lg"
+                  /></a>
+                  <a target="_blank" href="https://www.facebook.com/luke.spang.3"><MDBIcon fab icon="facebook-square"
+                    className="white-text"
+                    size="lg"
+                  /></a>
+                </MDBCol>
+              </MDBCol>
          
         </MDBRow>
       </MDBContainer>
