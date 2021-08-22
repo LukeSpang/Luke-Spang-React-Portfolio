@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Luke-Spang-React-Portfolio/static/css/main.5268b067.chunk.css",
+    "main.js": "/Luke-Spang-React-Portfolio/static/js/main.098c939b.chunk.js",
+    "main.js.map": "/Luke-Spang-React-Portfolio/static/js/main.098c939b.chunk.js.map",
+    "runtime-main.js": "/Luke-Spang-React-Portfolio/static/js/runtime-main.9c3a3966.js",
+    "runtime-main.js.map": "/Luke-Spang-React-Portfolio/static/js/runtime-main.9c3a3966.js.map",
+    "static/css/2.928a1452.chunk.css": "/Luke-Spang-React-Portfolio/static/css/2.928a1452.chunk.css",
+    "static/js/2.0d2e5ecc.chunk.js": "/Luke-Spang-React-Portfolio/static/js/2.0d2e5ecc.chunk.js",
+    "static/js/2.0d2e5ecc.chunk.js.map": "/Luke-Spang-React-Portfolio/static/js/2.0d2e5ecc.chunk.js.map",
+    "static/js/3.093da5f7.chunk.js": "/Luke-Spang-React-Portfolio/static/js/3.093da5f7.chunk.js",
+    "static/js/3.093da5f7.chunk.js.map": "/Luke-Spang-React-Portfolio/static/js/3.093da5f7.chunk.js.map",
+    "index.html": "/Luke-Spang-React-Portfolio/index.html",
+    "static/css/2.928a1452.chunk.css.map": "/Luke-Spang-React-Portfolio/static/css/2.928a1452.chunk.css.map",
+    "static/css/main.5268b067.chunk.css.map": "/Luke-Spang-React-Portfolio/static/css/main.5268b067.chunk.css.map",
+    "static/js/2.0d2e5ecc.chunk.js.LICENSE.txt": "/Luke-Spang-React-Portfolio/static/js/2.0d2e5ecc.chunk.js.LICENSE.txt",
+    "static/media/mdb.css": "/Luke-Spang-React-Portfolio/static/media/arrow_right.f7c6ac6d.svg",
+    "static/media/all.min.css": "/Luke-Spang-React-Portfolio/static/media/fa-solid-900.eeccf4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c3a3966.js",
+    "static/css/2.928a1452.chunk.css",
+    "static/js/2.0d2e5ecc.chunk.js",
+    "static/css/main.5268b067.chunk.css",
+    "static/js/main.098c939b.chunk.js"
+  ]
+}

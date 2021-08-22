@@ -11,6 +11,9 @@ function App() {
     <div>
     <Header />  
     <PortfolioContainer />
+    <br></br>
+    <br></br>
+    <br></br>
     <Footer />
     </div>
    
