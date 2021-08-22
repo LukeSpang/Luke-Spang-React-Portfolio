@@ -29,12 +29,12 @@ const JumbotronPage = () => {
                   <a target="_blank" href="https://www.linkedin.com/in/luke-spang-a6a960207/"><MDBIcon
                     fab
                     icon="linkedin-in"
-                    className="grey-text"
+                    className="green-text"
                     size="lg"
                   /></a>
                   
                   <a target="_blank" href="https://github.com/LukeSpang"><MDBIcon fab icon="github"
-                    className="grey-text"
+                    className="green-text"
                     size="lg"
                   /></a>
                 </MDBCol>
